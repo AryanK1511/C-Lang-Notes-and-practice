@@ -1,0 +1,2 @@
+- Arrays: https://intro2c.sdds.ca/C-Data-Structures/arrays
+- Structures: https://intro2c.sdds.ca/C-Data-Structures/structures

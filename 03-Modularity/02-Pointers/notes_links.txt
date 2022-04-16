@@ -1,0 +1,6 @@
+- Functions: https://intro2c.sdds.ca/D-Modularity/functions
+- Pointers: https://intro2c.sdds.ca/D-Modularity/pointers
+- Functions, Arrays and Structs: https://intro2c.sdds.ca/D-Modularity/functions-arrays-and-structs
+- Input Functions: https://intro2c.sdds.ca/D-Modularity/input-functions
+- Output Functions: https://intro2c.sdds.ca/D-Modularity/output-functions
+- Library Functions: https://intro2c.sdds.ca/D-Modularity/library-functions

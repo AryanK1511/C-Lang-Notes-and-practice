@@ -1,0 +1,7 @@
+- Character Strings: https://intro2c.sdds.ca/F-Refinements/character-strings
+- String Library: https://intro2c.sdds.ca/F-Refinements/string-library
+- More input and output: https://intro2c.sdds.ca/F-Refinements/more-input-and-output
+- Pointers, Arrays and Structs: https://intro2c.sdds.ca/F-Refinements/pointers-arrays-and-structs
+- Two dimensional arrays: https://intro2c.sdds.ca/F-Refinements/two-dimensional-arrays
+- Algorithms: https://intro2c.sdds.ca/F-Refinements/algorithms
+- Portability: https://intro2c.sdds.ca/F-Refinements/portability

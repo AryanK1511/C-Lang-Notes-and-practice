@@ -1,0 +1,9 @@
+- Computers: https://intro2c.sdds.ca/A-Introduction/computers
+- Information: https://intro2c.sdds.ca/A-Introduction/information
+- Compilers: https://intro2c.sdds.ca/A-Introduction/compilers
+- Types: https://intro2c.sdds.ca/B-Computations/types
+- Simple calculations: https://intro2c.sdds.ca/B-Computations/a-simple-calculation
+- Expressions: https://intro2c.sdds.ca/B-Computations/expressions
+- Logic: https://intro2c.sdds.ca/B-Computations/logic
+- Style Guidelines: https://intro2c.sdds.ca/B-Computations/style-guidelines
+- Testing and debugging: https://intro2c.sdds.ca/B-Computations/testing-and-debugging
